@@ -1,3 +1,3 @@
-This is a beta test
+# About Me
 
-I am adding another sentence
+This is my about me project... it's a *start*
